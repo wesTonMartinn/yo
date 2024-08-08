@@ -45,3 +45,13 @@ PUT _ingest/pipeline/exemple_pipeline
     }
   ]
 }
+
+Diapositive 2: Navigation dans la Section Discover
+Exploration des Données : La section Discover permet d'explorer et d'analyser vos données indexées en temps réel.
+Fonctionnalités Clés :
+Filtres : Affinez les résultats en appliquant des filtres sur les champs disponibles (ex. : durée, ID de tâche).
+Visualisation : Observez les tendances avec des graphiques de séries temporelles, des histogrammes, etc.
+Sauvegarde des Requêtes : Conservez vos recherches fréquentes pour un accès rapide.
+Cas d'Usage :
+Analyser la distribution des durées de tâches.
+Filtrer les logs par ID de tâche pour isoler des événements spécifiques.
