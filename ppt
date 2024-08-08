@@ -1,0 +1,5 @@
++--------------+        +--------------------------+        +-------------------------+
+|  Logs Bruts  |  --->  |  Pipeline d'Ingestion    |  --->  |   Index Structuré       |
+| (Raw Logs)   |        | (Grok, Date Processor,   |        |   (Structured Index)    |
++--------------+        |  Remove Fields, etc.)    |        +-------------------------+
+
