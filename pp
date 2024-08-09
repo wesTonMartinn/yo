@@ -77,6 +77,8 @@ This documentation is designed to help new users create indexes and index patter
 6. [Conclusion](#conclusion)
 
 ---
-
+<pre>
 def hello_world():
     print("Hello, World!")
+</pre>
+
