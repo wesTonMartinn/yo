@@ -146,3 +146,8 @@ Time Field Issues: Make sure the correct time field is selected if applicable.
 By following these steps, you should now be able to create indexes and index patterns in OpenSearch. If you encounter any issues, refer back to the troubleshooting section or seek additional support.
 
 End of Documentation
+
+
+The mapping in OpenSearch is essential for effectively filtering logs. If you need to configure a timestamp field, make sure to specify exactly @timestamp and select "date" for the type (note that any mistakes in this configuration could lead to duplicates and complicate log filtering).
+
+
